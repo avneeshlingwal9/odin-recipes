@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: cursive;
+    text-align: center;
+    
+}
+
+h1{
+    text-align: center;
+    
+    font-size: 4rem;
+}
+li{
+    text-align: justify;
+}
+.homelinks{
+    list-style-type: none;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: bisque;
+}
+
